@@ -17,7 +17,7 @@ function Footer() {
     <div class="brand-socials my-3 mt-4">
       <a href="#" class="mx-2"> <i class="bi bi-facebook"></i></a>
       <a href="#" class="mx-2"> <i class="bi bi-youtube"></i></a>
-      <a href="#" class="mx-2"> <i class="bi bi-instagram"></i></a>
+      <a href="https://www.instagram.com/artinpage/" class="mx-2"> <i class="bi bi-instagram"></i></a>
       <a href="#" class="mx-2"> <i class="bi bi-twitter"></i></a>
     </div>
   </div>
