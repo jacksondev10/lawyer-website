@@ -45,7 +45,7 @@ function Navbar() {
               <a class="dropdown-item" href="./Empresarial.html">Empresarial</a>
               <a class="dropdown-item" href="./Imobiliario.html">Imobiliário</a>
               <a class="dropdown-item" href="./Penal.html">Direito Penal</a>
-              <a class="dropdown-item" href="./civel.html">Cível</a>
+              <a class="dropdown-item" href="./Civel.html">Cível</a>
             </div>
           </li>              
                           
