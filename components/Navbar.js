@@ -43,7 +43,7 @@ function Navbar() {
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
               <a class="dropdown-item" href="./Empresarial.html">Empresarial</a>
-              <a class="dropdown-item" href="./Imobiliario.html">Imobiliario</a>
+              <a class="dropdown-item" href="./Imobiliario.html">Imobiliário</a>
               <a class="dropdown-item" href="./Penal.html">Direito Penal</a>
               <a class="dropdown-item" href="./civel.html">Cível</a>
             </div>
@@ -52,7 +52,7 @@ function Navbar() {
             </ul>
             <a
               target="_blank"
-              href="https://wa.me/5531987390093"
+              href="https://www.instagram.com/artinpage/"
               class="btn btn-outline-warning rounded-pill bg-brand-primayfaint"
             >
               Fale Conosco
